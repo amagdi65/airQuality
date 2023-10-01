@@ -1,7 +1,7 @@
 # air quality
 
-Describe your project in a few words.
-
+This task is to integrate with IQAir and provide endpoints to get air using lattiutde and longitude.
+it has cron job to get air about paris
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -12,8 +12,6 @@ Describe your project in a few words.
 - [Running Tests](#running-tests)
 
 ## Getting Started
-
-Provide instructions on how to get your project up and running.
 
 ### Prerequisites
 
